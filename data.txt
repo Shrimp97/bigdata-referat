@@ -1,0 +1,4 @@
+Google Drive Link zu den Flugdaten (flight_data.csv)
+https://drive.google.com/file/d/1IrnDEqROocVQFLNtWkz0ayrkooW26Xcn/view?usp=sharing
+
+Ordner 'data' erstellen und dort 'flight_data.csv' einfügen
